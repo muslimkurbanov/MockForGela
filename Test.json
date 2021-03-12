@@ -1,0 +1,102 @@
+{
+  "productInfo" : {
+        "photos" : ["https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
+            "https://idillika.com/upload/iblock/e81/e81317e3d04593889e7274b055d76ef2.jpg"],
+        "brand" : "Rinascimento",
+        "title" : "пиджак женский",
+        "price" : 1000,
+        "oldPrice" : 2000,x
+        "sale" : 50,
+        "offers" : [
+            {
+                "color" : "Черный",
+                "items" : [   
+                    {
+                        id: 681,
+                        selected: true,
+                        size: "XS",
+                        available: true
+                    },
+                    {
+                        id: 684,
+                        selected: false,
+                        size: "L",
+                        available: true
+                    },
+                    {
+                        id: 685,
+                        selected: false,
+                        size: "M",
+                        available: true
+                    }
+                ]
+            },
+            {
+                "color" : "Красный",
+                "items" : [   
+                    {
+                        id: 686,
+                        selected: true,
+                        size: "XS",
+                        available: true
+                    },
+                    {
+                        id: 688,
+                        selected: false,
+                        size: "L",
+                        available: true
+                    },
+                    {
+                        id: 689,
+                        selected: false,
+                        size: "M",
+                        available: true
+                    }
+                ]
+            }
+        ]
+    },
+    "detailInfo" : {
+        "description" : "Двубортный пиджак от Rinascimento.",
+        "extraInfo" : [
+            {
+                "type" : "plane",
+                "title" : "Бренд",
+                "text" : "авыфавыфафывавыф"
+            },
+            {
+                "type" : "list",
+                "title" : "Размер и крой",
+                "values" : [ "авыфавыфафывавыф", "длвытфпщловыщфоа" ]
+            }
+        ]
+    },
+    "compositionInfo" : [
+        {
+            "title"  : "Наружный состав",
+            "values" : [ "Полиэстер 88%", "Эластан 12%" ]
+        }
+    ]
+    "recommendList" : [
+        {
+            "id" : 1234567,
+            "brand" : "BRAND NAME",
+            "title" : "sdagasgasd",
+            "imageLink" : "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
+            "price" : 1000,
+            "oldPrice" : 2000,
+            "sale" : 50,
+            "available" : true
+        },
+        {
+            "id" : 2345678,
+            "brand" : "BRAND NAME 2",
+            "title" : "asdgbasdfsad",
+            "imageLink" : "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
+            "price" : 2000,
+            "oldPrice" : 4000,
+            "sale" : 50,
+            "available" : true
+        }
+    ]
+}
