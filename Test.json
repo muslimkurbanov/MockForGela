@@ -5,7 +5,6 @@
         "brand" : "Rinascimento",
         "title" : "пиджак женский",
         "price" : 1000,
-        "oldPrice" : 2000,
         "sale" : 50,
         "offers" : [
             {
@@ -84,7 +83,6 @@
             "title" : "sdagasgasd",
             "imageLink" : "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
             "price" : 1000,
-            "oldPrice" : 2000,
             "sale" : 50,
             "available" : true
         },
@@ -94,7 +92,6 @@
             "title" : "asdgbasdfsad",
             "imageLink" : "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
             "price" : 2000,
-            "oldPrice" : 4000,
             "sale" : 50,
             "available" : true
         }
