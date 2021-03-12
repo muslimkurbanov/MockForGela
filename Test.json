@@ -1,7 +1,7 @@
 {
   "productInfo" : {
-        "photos" : ["https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
-            "https://idillika.com/upload/iblock/e81/e81317e3d04593889e7274b055d76ef2.jpg"],
+        "photos" : [ "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg",
+                    "https://idillika.com/upload/iblock/451/45150072e37305b30e5935f66f2d12c2.jpg" ],
         "brand" : "Rinascimento",
         "title" : "пиджак женский",
         "price" : 1000,
@@ -12,22 +12,22 @@
                 "color" : "Черный",
                 "items" : [   
                     {
-                        "id": 681,
-                        "selected": true,
-                       "size": "XS",
-                        "available": true
+                        id: 681,
+                        selected: true,
+                        size: "XS",
+                        available: true
                     },
                     {
-                        "id: 684,
-                        "selected": false,
-                        "size": "L",
-                        "available": true
+                        id: 684,
+                        selected: false,
+                        size: "L",
+                        available: true
                     },
                     {
-                        "id": 685,
-                        "selected": false,
-                        "size": "M",
-                        "available": true
+                        id: 685,
+                        selected: false,
+                        size: "M",
+                        available: true
                     }
                 ]
             },
@@ -35,22 +35,22 @@
                 "color" : "Красный",
                 "items" : [   
                     {
-                        "id": 686,
-                        "selected": true,
-                        "size": "XS",
-                        "available": true
+                        id: 686,
+                        selected: true,
+                        size: "XS",
+                        available: true
                     },
                     {
-                        "id": 688,
-                        "selected": false,
-                        "size": "L",
-                        "available": true
+                        id: 688,
+                        selected: false,
+                        size: "L",
+                        available: true
                     },
                     {
-                        "id": 689,
-                        "selected": false,
-                        "size": "M",
-                        "available": true
+                        id: 689,
+                        selected: false,
+                        size: "M",
+                        available: true
                     }
                 ]
             }
@@ -74,10 +74,10 @@
     "compositionInfo" : [
         {
             "title"  : "Наружный состав",
-            "values" : [ "Полиэстер 88%", "Эластан 12%" ]
+            "values" : [ "Полиэстер 88%", "Эластан 12%" ] // массив строк
         }
     ]
-    "recommendList" : [
+    "recommendList" : [ // модель та же. что и в запросе списка товаров
         {
             "id" : 1234567,
             "brand" : "BRAND NAME",
