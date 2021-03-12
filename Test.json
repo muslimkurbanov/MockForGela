@@ -24,10 +24,10 @@
                         "available": true
                     },
                     {
-                        id: 685,
-                        selected: false,
-                        size: "M",
-                        available: true
+                        "id": 685,
+                        "selected": false,
+                        "size": "M",
+                        "available": true
                     }
                 ]
             },
