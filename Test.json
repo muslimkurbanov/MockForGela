@@ -5,23 +5,23 @@
         "brand" : "Rinascimento",
         "title" : "пиджак женский",
         "price" : 1000,
-        "oldPrice" : 2000,x
+        "oldPrice" : 2000,
         "sale" : 50,
         "offers" : [
             {
                 "color" : "Черный",
                 "items" : [   
                     {
-                        id: 681,
-                        selected: true,
-                        size: "XS",
-                        available: true
+                        "id": 681,
+                        "selected": true,
+                       "size": "XS",
+                        "available": true
                     },
                     {
-                        id: 684,
-                        selected: false,
-                        size: "L",
-                        available: true
+                        "id: 684,
+                        "selected": false,
+                        "size": "L",
+                        "available": true
                     },
                     {
                         id: 685,
@@ -35,22 +35,22 @@
                 "color" : "Красный",
                 "items" : [   
                     {
-                        id: 686,
-                        selected: true,
-                        size: "XS",
-                        available: true
+                        "id": 686,
+                        "selected": true,
+                        "size": "XS",
+                        "available": true
                     },
                     {
-                        id: 688,
-                        selected: false,
-                        size: "L",
-                        available: true
+                        "id": 688,
+                        "selected": false,
+                        "size": "L",
+                        "available": true
                     },
                     {
-                        id: 689,
-                        selected: false,
-                        size: "M",
-                        available: true
+                        "id": 689,
+                        "selected": false,
+                        "size": "M",
+                        "available": true
                     }
                 ]
             }
