@@ -1,0 +1,61 @@
+{
+    "productInfo": {
+        "photos": [
+            "https://idillika.com/upload/iblock/e8c/e8c94889ee87f85b0c3417266727ff61.jpg",
+            "https://idillika.com/upload/iblock/b95/b95e118fc983e6ed974fe9515c21b4cc.jpg",
+            "https://idillika.com/upload/iblock/5a6/5a6bad621c202530195e2bab35023f36.jpg",
+            "https://idillika.com/upload/iblock/a82/a8204b2704684aa5dc4cc742106c8a7e.jpg"
+        ],
+        "mainInfo": {
+            "id": 665,
+            "title": "скранч шелковый АЛЫЙ в размере М",
+            "info": "Скранч (skrunchy) – объемная резинка для волос,\n\nвыполненная из ткани.\n\n\n\nВернувшийся тренд,\n\nкоторый был на пике своей популярности\n\nв 90е годы.\n\nНаши скранчи выполнены из натурального шёлка.\n\n\n\nРекомендации трихологов и наш опыт, доказали, \n\nчто шёлк не оставляет заломов \n\nи гораздо бережнее относится к вашим волосам.\n\n\n\nШёлк не только подчеркнет красоту и блеск ваших волос,\n\n нo и сделает Ваш образ более романтичным и запоминающимся.\n\n\n\nВ ногу со временем и с трепетом к прошлому.\n\nС любовью, No DraMa!\n\n\n\nМатериал: 95% шелк, 5% эластан\n\nЦвет: АЛЫЙ\n\nДиаметр: 130мм\n\nШирина: 50мм \n\n\n\nВ покупку входит: фирменный пыльник, авторская открытка, пакет.",
+            "price": 2200,
+            "color": "",
+            "size": null,
+            "brand": "NO DRAMA",
+            "care": "",
+            "articul": "007",
+            "manufacturer": "Производитель: Россия",
+            "material": "Материал: ",
+            "attributes": [],
+            "available": true,
+            "favorite": false
+        },
+        "offers": []
+    },
+    "recommendList": [
+        {
+            "id": 658,
+            "imageLink": "https://idillika.com/upload/iblock/44c/44c58a153ef84b46ef368e8d85dafe6d.JPG",
+            "title": "сэт из шелковых скранчей",
+            "price": 2500,
+            "available": true,
+            "favorite": false
+        },
+        {
+            "id": 660,
+            "imageLink": "https://idillika.com/upload/iblock/cd9/cd9ad1291249de07bbbd34c65ff14c73.jpg",
+            "title": "шелковый скранч с бусинами",
+            "price": 3500,
+            "available": true,
+            "favorite": false
+        },
+        {
+            "id": 662,
+            "imageLink": "https://idillika.com/upload/iblock/dfc/dfc1957caa704d0d2adb737a60758ab0.jpg",
+            "title": "шелковый скранч САКУРА в размере М",
+            "price": 2200,
+            "available": true,
+            "favorite": false
+        },
+        {
+            "id": 663,
+            "imageLink": "https://idillika.com/upload/iblock/313/313f7a15ddb78b17080d0879a6fda8c6.jpg",
+            "title": "шелковый скранч КАПУЧИНО в размере М",
+            "price": 2200,
+            "available": true,
+            "favorite": false
+        }
+    ]
+}
