@@ -7,7 +7,7 @@
       "brand":"Rinascimento",
       "title":"пиджак женский",
       "price":1000,
-      "oldPrice":2100,
+      "oldPrice":2000,
       "sale":50,
       "offers":[
          {
@@ -62,6 +62,7 @@
       "description":"Двубортный пиджак от Rinascimento.",
       "id": 681,
       "price": 1000,
+      "oldPrice": 3000,
       "extraInfo":[
          {
             "type":"plane",
