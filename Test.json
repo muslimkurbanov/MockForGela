@@ -62,6 +62,7 @@
       "description":"Двубортный пиджак от Rinascimento.",
       "id": 681,
       "price": 1000,
+      "oldPrice": 3500,
       "extraInfo":[
          {
             "type":"plane",
